@@ -25,6 +25,7 @@
     "no-underscore-dangle": "off",
     "no-useless-constructor": "off",
     "eslint-disable-next-line": "off",
+    "linebreak-style": "off",
     "@typescript-eslint/ban-types": [
       "error",
       {
